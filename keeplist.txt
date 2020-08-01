@@ -1,0 +1,5 @@
+.Ink
+.lnk
+.bat
+GitHubProjects
+gitsed
