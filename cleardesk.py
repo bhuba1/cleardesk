@@ -54,7 +54,7 @@ def main():
     print("\n" + str(items))
     
     moveItemsToHolder(holderDirName, items, keepList)
-    input("...")
+    #input("...")
     
 
 if __name__ == "__main__":
